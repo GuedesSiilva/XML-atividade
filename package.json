@@ -1,0 +1,26 @@
+{
+  "name": "xml!",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuedesSiilva/XML-atividade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuedesSiilva/XML-atividade/issues"
+  },
+  "homepage": "https://github.com/GuedesSiilva/XML-atividade#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "xml2js": "^0.6.2"
+  }
+}
